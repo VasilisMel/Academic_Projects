@@ -6,10 +6,13 @@
 </h3>
 
 
-<h2>2D-image-brain-segmentation--z-axis--in-3D-view 
-</h2>
-Developed a Deep Image segmentation system that identifies and segments different categories of tumors from brain tumor images via MATLAB for preprocessing and Python for Deep Learning segmentation through [Keras image segmentation library](https://github.com/divamgupta/image-segmentation-keras). The dataset used for this project is available [here](https://figshare.com/articles/brain_tumor_dataset/1512427).
+## 2D image brain segmentation z axis in 3D view 
+
+Developed a Deep Image segmentation system that identifies and segments different categories of tumors from brain tumor images via MATLAB for preprocessing and Python for Deep Learning segmentation through [Keras image segmentation library](https://github.com/divamgupta/image-segmentation-keras/). The dataset used for this project is available [here](https://figshare.com/articles/brain_tumor_dataset/1512427/).
+
+
 
 <p align="center">
   <video src="" />
 </p>
+
